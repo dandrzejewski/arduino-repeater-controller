@@ -1,2 +1,5 @@
-# arduino_repeater_controller
-An arduino-based repeater controller.
+#Arduino Repeater Controller#
+
+This uses the morse code library by Mark Fickett: https://github.com/markfickett/arduinomorse
+
+
